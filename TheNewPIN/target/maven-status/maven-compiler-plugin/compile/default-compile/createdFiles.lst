@@ -1,0 +1,6 @@
+org\cesar\thenewpin\pin\PinManager.class
+org\cesar\thenewpin\pin\LoginLockListener.class
+org\cesar\thenewpin\pin\PinMenu.class
+org\cesar\thenewpin\pin\PlayerJoinListener.class
+org\cesar\thenewpin\pin\PlayerData.class
+org\cesar\thenewpin\pin\Main.class
