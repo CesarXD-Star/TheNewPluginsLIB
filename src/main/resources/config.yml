@@ -1,0 +1,3 @@
+panel-title: "&6Ingresa tu PIN"
+min-length: 5
+max-length: 16
